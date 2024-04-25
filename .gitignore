@@ -1,0 +1,19 @@
+# Arquivos e pastas específicas do PHPStorm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de configuração específicos do ambiente local
+.env
+
+# Arquivos gerados pelo Composer
+vendor/
+
+# Arquivos de configuração do Apache (ou outros servidores web)
+.htaccess
+
+# Arquivos de backup
+*.bak
+*.swp
+*~
